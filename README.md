@@ -29,7 +29,7 @@ A **real-time cryptocurrency monitoring and AI-powered prediction platform** bui
 
 ---
 
-### ▶ Run Instructions
+###  Run Instructions
 
 ####  1️⃣**Frontend (VS Code – React App)**
 
