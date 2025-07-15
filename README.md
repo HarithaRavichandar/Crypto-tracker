@@ -50,24 +50,23 @@ A **real-time cryptocurrency monitoring and AI-powered prediction platform** bui
 ---
 
 ##  Folder Structure (sample)
+```
 crypto-tracker/
-│
 ├── backend/
-│ ├── app.py
-│ └── models/
-│
+│   └── app.py
+├── models/
 ├── frontend/
-│ ├── components/
-│ └── pages/
-│
+│   ├── components/
+│   └── pages/
 ├── ai-models/
-│ ├── train_lstm.py
-│ ├── saved_models/
-│ └── prediction_dashboard/
-│
+│   ├── train_lstm.py
+│   ├── saved_models/
+│   └── prediction_dashboard/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
+
 
 
 
