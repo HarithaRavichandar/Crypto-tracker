@@ -49,7 +49,7 @@ A **real-time cryptocurrency monitoring and AI-powered prediction platform** bui
 
 Here is a sample of the AI price prediction dashboard:
 
-![Crypto Tracker Output](screenshots/Home.png)
+![Crypto Tracker Output](screenshot/Home.png)
 
 
 ##  Folder Structure (sample)
