@@ -45,7 +45,7 @@ A **real-time cryptocurrency monitoring and AI-powered prediction platform** bui
       conda activate crypto-predict
       streamlit run app.py
 
-Run the following:
+
 
 ---
 
