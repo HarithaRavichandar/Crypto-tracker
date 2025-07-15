@@ -37,7 +37,7 @@ A **real-time cryptocurrency monitoring and AI-powered prediction platform** bui
 2. Open terminal:
    ```bash
    npm install         # First-time only
-   npm run dev         # Starts the React frontend
+   npm run dev         
    
 #### 2️⃣Backend (Anaconda Prompt – Streamlit)
     
